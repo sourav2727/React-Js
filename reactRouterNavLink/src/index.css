@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  /* background-color: black; */
+  overflow-x:hidden;
+}
+
+.active {
+  color: red;
+}
+.pr-10 {
+  padding-right: 10rem;
+}
+
+  
